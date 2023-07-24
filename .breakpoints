@@ -1,0 +1,36 @@
+{
+  "files": {
+    "src/components/Game.jsx": [
+      {
+        "id": "38319684-80df-4672-a0ce-a9a25a8258f4",
+        "line": 29,
+        "version": 5,
+        "index": 815
+      }
+    ],
+    "src/components/GamePage.jsx": [
+      {
+        "id": "479d398e-dfa4-4e22-acfa-c3baf46c0668",
+        "line": 30,
+        "version": 9,
+        "index": 1030
+      }
+    ],
+    "src/contexts/GamesContext.jsx": [
+      {
+        "id": "b1aa42e6-e0dd-48ba-9b3f-3bbdaa29679a",
+        "line": 182,
+        "version": 1,
+        "index": 4693
+      }
+    ],
+    "src/index.css": [
+      {
+        "id": "3650c706-8724-4ac6-8aa5-c472709275ea",
+        "line": 521,
+        "version": 4,
+        "index": 8191
+      }
+    ]
+  }
+}
